@@ -12,7 +12,7 @@
 </p>
 
 <p align="center">
-  ကျွန်တော်တို့၏ GitHub Organization :octocat: တွင်ပါ၀င်ပြီး open source စီမံကိန်းများအား ပါ၀င်ကူညီနိုင်သည်။
+  ကျွန်တော်တို့၏ GitHub Organization :octocat: တွင်အတူပါ၀င်ပြီး Open Source Project များတွင် ပါ၀င်ကူညီနိုင်ပါတယ်။
 </p>
 
 <p align="center">
