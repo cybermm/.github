@@ -20,4 +20,6 @@
 src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" width="40" height="50"/></a>
   &nbsp;
   <a href="https://www.facebook.com/cybermm/"><img src="https://img.icons8.com/color/48/000000/facebook-new.png"/></a>
+  &nbsp;
+<a href="https://twitter.com/cbmmdevs"><img src="https://img.icons8.com/color/48/000000/twitter--v1.png"/></a>
 </p>
