@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/cybermm/art/blob/master/cover/cybermm/transparent-4k.png" width="600" />
+  <img src="https://github.com/cybermm/art/blob/main/cover/cybermm/transparent-4k.png" width="600" />
 </p>
 
 <p align="center">
